@@ -1,0 +1,30 @@
+_repo: Missing_12908
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Ward, Mary Augusta Arnold
+    - Arnold, Mary Augusta
+    - Ward, Mrs. Humphry
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2004-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- GITenberg
+title: Missing
+url: http://www.gutenberg.org/ebooks/12908
